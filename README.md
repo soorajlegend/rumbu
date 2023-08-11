@@ -63,8 +63,7 @@ Join us on this journey. Together, we'll cultivate a world where food security i
 [Watch the video](https://youtu.be/dExkFJ6bwTg)
 
 ## The architecture
- - ![Solution-architecture-diagram](src/assets/call%20for%20codeh.docx)
-
+[Solution-architecture-diagram]([src/assets/call%20for%20codeh.docx](https://docs.google.com/document/d/1OQ8nJWL_pG2HsluqVHP8SPtEaI4LE5kzOG2CyFNzNKw/edit?usp=sharing))
 
 
 
@@ -139,7 +138,7 @@ As an MVP (Minimum Viable Product), Rumbu focuses on delivering core features th
 While the MVP serves as a starting point, Rumbu envisions expanding its features and capabilities in subsequent iterations, aiming to provide a more comprehensive and impactful solution to the challenges of food security and wastage.
 
 
-![Roadmap](https://docs.google.com/document/d/1gcLGYXcjImUuVen6BMwpQT9cbUqcDo67pKB1dGgqtrI/edit?usp=sharing)
+[Roadmap](https://docs.google.com/document/d/1gcLGYXcjImUuVen6BMwpQT9cbUqcDo67pKB1dGgqtrI/edit?usp=sharing)
 
 ## Technologies used
   
