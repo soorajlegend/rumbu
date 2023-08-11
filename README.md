@@ -15,8 +15,7 @@
     - [SOLUTION](#solution)
   - [Project roadmap](#project-roadmap)
         - [Rumbu currently does the following:](#Rumbu-currently-does-the-following)
-  - [Live demo](#live-demo)
-  - [Built with](#built-with)
+  - [Technologies used](#Technologies-used)
     - [Online](#online)
 
 ## Short description.
@@ -143,38 +142,37 @@ While the MVP serves as a starting point, Rumbu envisions expanding its features
 
 ![Roadmap](https://docs.google.com/document/d/1gcLGYXcjImUuVen6BMwpQT9cbUqcDo67pKB1dGgqtrI/edit?usp=sharing)
 
-
 ## Technologies used
   
 
-1. [Next.js:]()
+1. [Next.js:]('https://nextjs.org')
    - Benefit: Provides server-side rendering and routing, leading to improved page load times and overall user experience.
 
-2. [TypeScript:]()
+2. [TypeScript:]('https://www.typescriptlang.org/')
    - Benefit: Enhances code quality and readability, offers type safety, and helps prevent common programming errors.
 
-3. [MySQL:]()
-   - Benefit: Offers a robust relational database management system, enabling efficient data storage, retrieval, and management.
+3. [PlanetScale (Database Management):]('https://planetscale.com/')
+   - Benefit: PlanetScale offers a cloud-native database platform built on Vitess. It provides scalability, automatic sharding, and resilience for seamless data management, making it well-suited for managing Rhombus's data needs.
 
-4. [Tailwind CSS:]()
+4. [Tailwind CSS:]('https://tailwindcss.com')
    - Benefit: Facilitates rapid UI development with a utility-first approach, allowing for consistent and responsive design.
 
-5. [Shadcn/UI:]()
+5. [Shadcn/UI:]('https://ui.shadcn.com')
    - Benefit: Speeds up development by offering pre-designed UI components, maintaining visual consistency throughout the app.
 
-6. [Clerk:]()
+6. [Clerk:]('https://clerk.com/')
    - Benefit: Simplifies user authentication processes, ensuring secure user management and authentication flows.
 
-7. [Cloudinary:]()
+7. [Cloudinary:]('https://cloudinary.com/)
    - Benefit: Cloud-based image and video management, optimizing media assets for performance and reducing load times.
 
-8. [Watson Assistant:]()
+8. [Watson Assistant:]('https://cloud.ibm.com/catalog/services/watson-assistant)
    - Benefit: Provides AI-powered chatbot capabilities for real-time user interaction, assistance, and improved user engagement.
 
-9. [PHP (for offline USSD):]()
+9. [PHP (for offline USSD):]('https://www.php.net/')
    - Benefit: A versatile server-side scripting language that enables dynamic web application development, ensuring effective communication with offline users.
 
-10. [MySQL (for offline USSD):]()
+10. [MySQL (for offline USSD):]('https://www.mysql.com')
    - Benefit: Consistency with the web app's database system, centralizing data management and maintaining data integrity.
 
 By leveraging this diverse set of technologies, Rumbu gains numerous advantages, including enhanced user experience, efficient data management, secure authentication, rapid development, and AI-driven assistance. These technologies collectively contribute to the seamless functioning of the platform and its ability to address the challenges of food security and wastage.
