@@ -14,9 +14,8 @@
     - [The Problem](#the-problem)
     - [SOLUTION](#solution)
   - [Project roadmap](#project-roadmap)
-        - [Rumbu currently does the following:](#Rumbu-currently-does-the-following)
+    - [Rumbu currently does the following:](#Rumbu-currently-does-the-following)
   - [Technologies used](#Technologies-used)
-    - [Online](#online)
 
 ## Short description.
 Rumbu is a groundbreaking platform dedicated to revolutionizing food security and reducing wastage. In a world marked by conflicts and limited market access, Rumbu empowers farmers to store their produce securely and connect with global markets effortlessly. Our platform transforms challenges into opportunities, offering a seamless digital ecosystem where crops thrive and communities flourish. By bridging the gap between farmers and consumers, Rumbu not only reduces food waste but also redefines how we access and appreciate the nourishing bounty of our Earth. Together, we're sowing the seeds of change, ensuring a brighter future for all.
@@ -117,7 +116,7 @@ Ultimately, Rumbu is more than a platform; it's a transformative force that brid
 
 As an MVP (Minimum Viable Product), Rumbu focuses on delivering core features that address the immediate needs of farmers and consumers while showcasing the platform's potential. Here's what Rumbu can do currently as an MVP:
 
-1 **Secure Storage Management:** Farmers can register on the platform and securely store their produce in Rumbu' modern storage facilities equipped with IoT technology. This minimizes post-harvest losses and maintains produce quality.
+1 **Secure Storage Management:** Farmers can register on the platform and securely store their produce in Rumbu's modern storage facilities equipped with IoT technology. This minimizes post-harvest losses and maintains produce quality.
 
 2. **Market Access:** Farmers have the ability to showcase their stored produce on the platform's digital market. This provides them with wider exposure and access to consumers, regardless of geographical boundaries.
 
