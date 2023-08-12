@@ -60,7 +60,7 @@ Join us on this journey. Together, we'll cultivate a world where food security i
 
 ## Demo video
 
-[Watch the video](https://youtu.be/dExkFJ6bwTg)
+[Watch the video]([https://www.youtube.com/watch?v=p_AYrqkDivM])
 
 ## The architecture
 [Solution-architecture-diagram]([src/assets/call%20for%20codeh.docx](https://docs.google.com/document/d/1OQ8nJWL_pG2HsluqVHP8SPtEaI4LE5kzOG2CyFNzNKw/edit?usp=sharing))
