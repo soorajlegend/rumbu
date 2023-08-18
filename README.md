@@ -18,45 +18,43 @@
   - [Technologies used](#Technologies-used)
 
 ## Short description.
-Rumbu is a groundbreaking platform dedicated to revolutionizing food security and reducing wastage. In a world marked by conflicts and limited market access, Rumbu empowers farmers to store their produce securely and connect with global markets effortlessly. Our platform transforms challenges into opportunities, offering a seamless digital ecosystem where crops thrive and communities flourish. By bridging the gap between farmers and consumers, Rumbu not only reduces food waste but also redefines how we access and appreciate the nourishing bounty of our Earth. Together, we're sowing the seeds of change, ensuring a brighter future for all.
+Rumbu stands as a pioneering solution, poised to revolutionize food security and waste reduction. Its core functionality offers farmers and producers an unprecedented level of accessibility and control over their stored produce. One of Rumbu's transformative features enables individuals to access their stored food from anywhere, without being constrained by the geographical location where it was initially saved. This innovation effectively eradicates the conventional limitations linked to physical storage, empowering farmers to retrieve their products seamlessly, regardless of their current location.
+
+The true brilliance of Rumbu emerges in its capacity to forge an unbreakable link between producers and consumers through its advanced market platform. Imagine a scenario where a farmer can effortlessly showcase their harvest to consumers across regions, paving the way for direct sales. Equally remarkable is the consumer's ability to access these offerings right where they are, no matter their geographic location. This transcendent accessibility not only bolsters food security but also directly combats post-harvest losses by minimizing the wastage of valuable produce. Rumbu's innovative market mechanism harnesses the digital age's power to bridge gaps, transform supply chains, and foster a future where food security is not an aspiration but an attainable reality for all.
 
 ### How can technology help?
 
 **Harnessing Technology for Food Security: How Rumbu Transforms Agriculture**
+Rumbu's technology offers a range of impactful solutions that address pressing challenges in the realm of food security and wastage reduction. Here's how Rumbu's technology can help:
 
-In a world of rapidly advancing technology, Rumbu emerges as a beacon of hope for transforming agriculture and ensuring food security. Leveraging cutting-edge innovations, Rumbu addresses critical challenges faced by farmers and communities worldwide:
+1. **Secure Storage Solution:**
+   Rumbu leverages modern technology to provide farmers and producers with secure, state-of-the-art storage facilities. These facilities are equipped with advanced features to maintain optimal conditions, preserving the freshness and quality of stored produce. This technology-driven storage ensures that crops remain in their prime condition, reducing post-harvest losses and enhancing overall food security.
 
-**Secure Storage Solutions:** Rumbu utilizes advanced IoT and cloud-based technologies to provide farmers with secure, modern storage facilities. This minimizes post-harvest losses caused by improper storage conditions and preserves the nutritional value of produce.
+2. **Access Anywhere, Anytime:**
+   Rumbu's platform enables individuals to access their stored produce from anywhere, regardless of the geographical location where it was saved. Through a user-friendly interface, farmers can conveniently retrieve their produce, even if they are in a different region. This feature eradicates traditional storage limitations and promotes efficient distribution, minimizing wastage and fostering equitable access to nutritious food.
 
-**Global Market Accessibility:** With a user-friendly online platform, Rumbu connects farmers to consumers, eliminating geographical barriers. Cutting-edge logistics technologies streamline the process, ensuring produce reaches markets in optimal condition.
+3. **Direct Market Connectivity:**
+   Rumbu's digital market platform empowers farmers to directly connect with consumers across regions. This eliminates intermediaries and allows farmers to showcase their produce to a wider audience. Consumers can access fresh, locally sourced food regardless of their location, establishing a direct link between producers and consumers that reduces food miles and enhances sustainability.
 
-**Real-time Data Insights:** Rumbu employs data analytics to provide farmers with real-time insights into market trends, demand patterns, and pricing dynamics. This empowers farmers to make informed decisions, reducing the risk of overproduction and waste.
+4. **Real-Time Transactions:**
+   Rumbu's technology facilitates real-time transactions between farmers and consumers. This streamlined process ensures smooth buying and selling experiences, enhancing market efficiency and reducing delays that can lead to food spoilage.
 
-**Customization and Efficiency:** By incorporating AI, Rumbu tailors storage conditions to different produce types. This enhances shelf life and quality, while reducing energy consumption and environmental impact.
+5. **Market Insights:**
+   The platform provides valuable insights into market trends and consumer preferences. These insights empower farmers to make informed decisions on what to produce and when to sell, aligning production with demand and minimizing overproduction.
 
-**Empowerment through Education:** Rumbu utilizes machine learning to provide educational resources and guidance to farmers. This bridges the knowledge gap, empowering farmers to make informed choices regarding storage, market access, and sustainability.
-
-**Sustainable Supply Chains:** Rumbu integrates blockchain technology to create transparent supply chains. This instills consumer confidence, encourages responsible practices, and reduces fraud in the food system.
-
-**Digital Payment Solutions:** Rumbu facilitates secure, digital transactions, reducing the reliance on cash and creating financial inclusion for farmers. This also ensures fair compensation and faster access to funds.
-
-**Remote Accessibility:** Our mobile application extends Rumbu' accessibility, allowing farmers to manage their produce and transactions remotely. This is particularly beneficial in conflict zones and remote regions.
-
-By synergizing technology and agriculture, Rumbu pioneers a new era of food security. As we harness the power of innovation, we're not just preventing food waste – we're cultivating sustainable growth, prosperity, and well-being for communities around the world.
+Rumbu's technology-driven solutions redefine the way food is stored, accessed, and distributed, ultimately contributing to a more secure, sustainable, and equitable food system.
 
 ### The idea
 
 **Rumbu: Transforming Food Security Through Innovation**
 
-Imagine a world where farmers have the power to safeguard their hard-earned harvests, and consumers can access fresh, nutritious produce with ease, regardless of their location. Welcome to Rumbu, a revolutionary platform that harnesses the potential of technology to address critical challenges in the agriculture sector.
+The core idea behind Rumbu is to revolutionize the traditional concept of food storage and distribution, transcending geographical limitations and fostering a more secure, accessible, and sustainable global food system. Rumbu recognizes the challenges faced by both farmers and consumers due to issues like post-harvest losses, limited access to markets, and the wastage of valuable food resources. 
 
-At its core, Rumbu is a solution born out of empathy and necessity. In conflict zones, where communities are uprooted and food security is compromised, Rumbu provides a lifeline. Our platform enables farmers to store their produce securely, preventing wastage even in the midst of chaos. By connecting farmers to markets and consumers, we're not just saving food – we're restoring dignity and hope.
+At its heart, Rumbu aims to provide farmers with modern, secure storage facilities where they can preserve their produce's freshness and quality. What sets Rumbu apart is its unique approach of enabling individuals to access their stored food from anywhere, regardless of where it was initially stored. This breakthrough technology eliminates the constraints of physical location, making produce retrieval and distribution seamless, efficient, and responsive to market demands.
 
-Rumbu stands as a beacon of progress in regions with limited access to markets and storage facilities. Through smart technologies like IoT, AI, and blockchain, we're shaping a sustainable ecosystem that empowers every stakeholder. Farmers gain real-time insights into market trends, ensuring their produce meets demand. Consumers receive trustworthy, nutrient-rich food, and the environment benefits from reduced waste and efficient supply chains.
+Moreover, Rumbu acts as a direct marketplace, allowing farmers to directly connect with consumers, bypassing intermediaries and reducing food miles. This direct link enhances transparency, minimizes wastage, and fosters fair pricing. The platform's user-friendly interface and real-time transaction capabilities further ensure smooth interactions, empowering both farmers and consumers.
 
-But Rumbu is more than just a platform; it's a movement. It's about uniting communities, bridging gaps, and redefining possibilities. It's about giving every farmer a chance to thrive and every consumer a choice to make a positive impact.
-
-Join us on this journey. Together, we'll cultivate a world where food security is no longer a distant dream, but a shared reality. With Rumbu, the future of food is in our hands – and it's ripe with promise.
+In essence, the idea behind Rumbu is to harness the power of technology to bridge gaps in the food supply chain, transforming it into a dynamic, accessible, and sustainable network. By offering a secure, technologically advanced storage solution and enabling remote access, Rumbu aims to enhance food security, minimize wastage, and contribute to a world where food accessibility is not hindered by geographical boundaries.
 
 ## Demo video
 
@@ -72,41 +70,65 @@ Join us on this journey. Together, we'll cultivate a world where food security i
 
 ### Did You Know? Rumbu is Changing the Way We Think About Food Security
 
-Did you know that millions of farmers around the world struggle with inadequate storage and limited market access for their produce? The result? Wasted food and lost livelihoods. But what if there was a solution that could revolutionize this scenario?
+The core idea behind Rumbu is to revolutionize the traditional concept of food storage and distribution, transcending geographical limitations and fostering a more secure, accessible, and sustainable global food system. Rumbu recognizes the challenges faced by both farmers and consumers due to issues like post-harvest losses, limited access to markets, and the wastage of valuable food resources. 
 
-Introducing Rumbu – the innovative platform that's rewriting the rules of food security. Did you know that Rumbu provides farmers with a secure haven for their harvests? Using state-of-the-art technology like IoT and AI, Rumbu ensures that produce stays fresh and nutritious, even in challenging environments.
+At its heart, Rumbu aims to provide farmers with modern, secure storage facilities to preserve their produce's freshness and quality. What sets Rumbu apart is its unique approach of enabling individuals to access their stored food from anywhere, regardless of where it was initially stored. This breakthrough technology eliminates the constraints of physical location, making produce retrieval and distribution seamless, efficient, and responsive to market demands.
 
-But that's not all! Did you know that Rumbu breaks down geographical barriers? Farmers can now connect with markets and consumers globally, reducing wastage and ensuring a fair price for their hard work.
+Moreover, Rumbu acts as a direct marketplace, allowing farmers to connect directly with consumers, bypassing intermediaries and reducing food miles. This direct link enhances transparency, minimizes wastage, and fosters fair pricing. The platform's user-friendly interface and real-time transaction capabilities further ensure smooth interactions, empowering both farmers and consumers.
 
-And the impact doesn't stop there. Did you know that Rumbu is a sustainable force for change? By reducing food waste, streamlining supply chains, and empowering communities, we're creating a ripple effect that benefits the environment, economies, and well-being.
-
-So, did you know that you can be a part of this transformative journey? Join Rumbu and be a catalyst for change. Together, we're not just saving food – we're nourishing futures.
+In essence, the idea behind Rumbu is to harness the power of technology to bridge gaps in the food supply chain, transforming it into a dynamic, accessible, and sustainable network. By offering a secure, technologically advanced storage solution and enabling remote access, Rumbu aims to enhance food security, minimize wastage, and contribute to a world where geographical boundaries do not hinder food accessibility.
 
 [Rumbu website](https://Rumbu-app.vercel.app)
 
 ### The Problem
 
-The problem that Rumbu aims to address is the complex interplay of challenges faced by farmers, especially those in conflict zones and regions with limited infrastructure. These challenges include inadequate storage facilities, restricted market access, post-harvest losses, and overall food insecurity. Farmers often struggle to preserve the quality and quantity of their produce due to a lack of modern storage solutions, resulting in significant wastage. Additionally, in conflict-prone areas, the situation is exacerbated, leading to forced migration, loss of livelihoods, and critical food shortages.
+Rumbu is addressing several critical problems in the realm of food storage, distribution, and accessibility:
 
-This multifaceted problem touches on several dimensions – economic, social, and environmental. It affects the livelihoods of millions of farmers, contributes to food scarcity, drives up prices, and adds pressure to already strained communities. Furthermore, the issue is intricately linked to sustainability, as food waste contributes to environmental degradation, loss of resources, and increased carbon footprint.
+1. **Post-Harvest Losses:** Traditional storage methods often lead to post-harvest losses and food spoilage, depriving communities of valuable nutrition. Rumbu tackles this issue by providing advanced storage facilities equipped with modern technology to ensure the produce remains fresh and reaches consumers in optimal condition.
 
-The problem isn't just about the lack of storage or access – it's about the far-reaching consequences that reverberate through societies, economies, and ecosystems. Rumbu recognizes the urgency of this problem and endeavors to transform it into an opportunity for positive change. By leveraging technology, innovation, and a commitment to empowerment, Rumbu seeks to revolutionize food security and shape a more sustainable future for all.
+2. **Geographical Barriers:** Farmers in remote areas often face challenges in accessing markets due to geographical barriers. Rumbu eliminates these barriers by enabling farmers to access their stored produce from anywhere, connecting them directly with consumers across regions.
 
+3. **Wastage and Food Miles:** Long supply chains and intermediaries contribute to food wastage and higher costs. Rumbu's direct marketplace reduces food miles and minimizes wastage by allowing farmers to showcase their produce and consumers to access it right where they are.
+
+4. **Lack of Access to Markets:** Limited access to markets can hinder farmers' income and consumers' access to fresh produce. Rumbu bridges this gap by empowering farmers to directly connect with consumers, enabling equitable access to nutritious food.
+
+5. **Inefficiencies in Distribution:** Inefficient distribution processes lead to delays, spoilage, and increased costs. Rumbu streamlines distribution through real-time transactions, ensuring that produce reaches consumers promptly and efficiently.
+
+6. **Limited Food Security:** Insecure access to food is a global concern. Rumbu enhances food security by providing farmers with secure, technologically advanced storage facilities, ensuring that produce is available when needed.
+
+7. **Unsustainable Agriculture:** Conventional agricultural practices can lead to resource depletion and environmental degradation. Rumbu's focus on reducing food wastage and promoting direct connections supports more sustainable and efficient agriculture.
+
+In summary, Rumbu is addressing these interconnected problems by leveraging innovative technology and an efficient marketplace to create a more secure, accessible, and sustainable food ecosystem.
 
 ### SOLUTION
 
-The solution offered by Rumbu is a comprehensive platform that revolutionizes food security by addressing the challenges faced by farmers and communities, particularly in conflict zones and areas with limited access to markets and storage facilities.
+Rumbu offers innovative solutions to address the pressing challenges in the food storage and distribution landscape:
 
-At its core, Rumbu provides secure and modern storage solutions for farmers' produce. Leveraging IoT technology and advanced storage infrastructure, Rumbu ensures that crops remain fresh, preserving their nutritional value and minimizing post-harvest losses. This alone directly tackles the problem of inadequate storage facilities.
+1. **Advanced Storage Facilities:**
+   Rumbu provides farmers with secure and modern storage facilities equipped with advanced technology. These facilities ensure optimal conditions to preserve the freshness, quality, and nutritional value of stored produce, significantly reducing post-harvest losses.
 
-Additionally, Rumbu empowers farmers by connecting them to global markets through a user-friendly digital platform. Farmers can showcase their produce to a wider audience, ensuring fair pricing and reducing wastage. Consumers, on the other hand, gain access to fresh, high-quality produce, regardless of their location.
+2. **Remote Access and Retrieval:**
+   Through Rumbu's platform, farmers can access their stored produce from anywhere, transcending geographical limitations. This feature minimizes the need for physical transportation and storage costs, enhancing accessibility and reducing food wastage.
 
-What sets Rumbu apart is its holistic approach. Beyond storage and market access, Rumbu incorporates technology like AI and blockchain to offer personalized insights into market trends, optimize storage conditions, and ensure transparent supply chains. By reducing food waste and streamlining processes, Rumbu contributes to the sustainability of the entire food ecosystem.
+3. **Direct Marketplace:**
+   Rumbu's digital market platform connects farmers directly with consumers, eliminating intermediaries and enabling transparent and fair transactions. Consumers can access fresh produce right where they are, promoting equitable access and reducing food miles.
 
-In regions affected by conflict and migration, Rumbu provides a lifeline. Farmers can securely store their produce and access it remotely from different locations, mitigating the challenges of forced displacement. This adds a layer of resilience and hope for those facing adverse circumstances.
+4. **Real-Time Transactions:**
+   Rumbu facilitates real-time transactions, ensuring smooth buying and selling experiences. This streamlined process minimizes delays, reduces the risk of spoilage, and enhances overall market efficiency.
 
-Ultimately, Rumbu is more than a platform; it's a transformative force that bridges gaps, creates opportunities, and redefines the future of food security. By tackling the core issues that contribute to food waste and insecurity, Rumbu envisions a world where every farmer's hard work is honored, and every individual has access to nourishing, sustainable food.
+5. **Market Insights:**
+   The platform provides valuable insights into market trends and consumer preferences. This empowers farmers to make informed decisions about production and pricing, aligning supply with demand and minimizing overproduction.
 
+6. **Enhanced Food Security:**
+   Rumbu's technology-driven solutions contribute to enhanced food security by offering farmers secure storage options and efficient access to markets. This helps ensure a consistent supply of fresh produce, even in challenging circumstances.
+
+7. **Sustainability:** 
+   By reducing food wastage, Rumbu supports more sustainable agriculture and reduces the environmental impact associated with inefficient distribution processes and excess production.
+
+8. **Equitable Access:**
+   Rumbu empowers farmers, regardless of their location, to access wider markets and directly connect with consumers. This promotes fair pricing and fosters a more inclusive food ecosystem.
+
+In essence, Rumbu's solutions redefine the way food is stored, accessed, and distributed, transforming the traditional food supply chain into an efficient, accessible, and sustainable network that benefits farmers, consumers, and the environment alike.
 
 
 ## Project roadmap
@@ -123,17 +145,13 @@ As an MVP (Minimum Viable Product), Rumbu focuses on delivering core features th
 
 4. **Real-time Transaction:** The platform facilitates real-time transactions between farmers and consumers, ensuring a seamless buying experience.
 
-5. **Personalized Insights:** Basic data analytics provide farmers with insights into market trends and consumer preferences, helping them make informed decisions.
+5. **Remote Access:** Farmers can remotely manage their stored produce and transactions, which is especially beneficial for those in conflict zones or areas with restricted access.
 
-6. **Remote Access:** Farmers can remotely manage their stored produce and transactions, which is especially beneficial for those in conflict zones or areas with restricted access.
+6. **User Profiles:** Users can create and manage their profiles, enhancing their engagement with the platform.
 
-7. **User Profiles:** Users can create and manage their profiles, enhancing their engagement with the platform.
+7. **User Support:** Basic customer support mechanisms are in place to assist users with their queries and concerns.
 
-8. **User Support:** Basic customer support mechanisms are in place to assist users with their queries and concerns.
-
-9. **User Authentication:** Secure user authentication ensures the privacy and safety of user data.
-
-10. **Educational Resources:** Basic resources and guides are provided to help farmers navigate the platform effectively.
+8. **User Authentication:** Secure user authentication ensures the privacy and safety of user data.
 
 While the MVP serves as a starting point, Rumbu envisions expanding its features and capabilities in subsequent iterations, aiming to provide a more comprehensive and impactful solution to the challenges of food security and wastage.
 
@@ -150,7 +168,7 @@ While the MVP serves as a starting point, Rumbu envisions expanding its features
    - Benefit: Enhances code quality and readability, offers type safety, and helps prevent common programming errors.
 
 3. [PlanetScale (Database Management):]('https://planetscale.com/')
-   - Benefit: PlanetScale offers a cloud-native database platform built on Vitess. It provides scalability, automatic sharding, and resilience for seamless data management, making it well-suited for managing Rhombus's data needs.
+   - Benefit: PlanetScale offers a cloud-native database platform built on Vitess. It provides scalability, automatic sharding, and resilience for seamless data management, making it well-suited for managing Rumbu's data needs.
 
 4. [Tailwind CSS:]('https://tailwindcss.com')
    - Benefit: Facilitates rapid UI development with a utility-first approach, allowing for consistent and responsive design.
@@ -172,6 +190,9 @@ While the MVP serves as a starting point, Rumbu envisions expanding its features
 
 10. [MySQL (for offline USSD):]('https://www.mysql.com')
    - Benefit: Consistency with the web app's database system, centralizing data management and maintaining data integrity.
+   - 
+10. [Stripe:]('https://stripe.com/en-gb-us')
+   - Benefit: handles the real-time transaction 
 
 By leveraging this diverse set of technologies, Rumbu gains numerous advantages, including enhanced user experience, efficient data management, secure authentication, rapid development, and AI-driven assistance. These technologies collectively contribute to the seamless functioning of the platform and its ability to address the challenges of food security and wastage.
 
